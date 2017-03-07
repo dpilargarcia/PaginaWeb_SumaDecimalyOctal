@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css?family=Arima+Madurai|Cookie|Indie+Flower|Josefin+Sans|Just+Another+Hand|Lobster+Two|Open+Sans+Condensed|Source+Sans+Pro|Sue+Ellen+Francisco|Muli|Montez|Source+Code+Pro|Sacramento|Devonshire");
+#header-nav {
+  background-color: #009999;
+  border-radius: 0;
+  border: 0; }
+
+.navbar-brand {
+  padding-top: 15px; }
+
+.navbar-brand h1 {
+  font-family: "Just Another Hand", serif;
+  font-size: 2em;
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.75; }
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none; }
+
+#nav-list a {
+  color: #fff;
+  font-family: "Josefin Sans", serif;
+  font-size: 1.2em;
+  text-align: center; }
+
+#nav-list a:hover {
+  color: #009999;
+  background-color: #fff; }
+
+.navbar-nav {
+  margin: 7.5px -15px;
+  margin-top: 0px;
+  margin-right: -15px;
+  margin-bottom: 0px;
+  margin-left: -15px; }
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid #fff; }
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px; }
+
+.dropdown ul {
+  background-color: #009999 !important; }
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.titulo {
+  padding-top: 50px;
+  text-align: center; }
+  .titulo h1 {
+    font-family: "Just Another Hand";
+    font-size: 3.8em; }
+
+.ejemplo {
+  text-align: center; }
+
+.sum {
+  width: 13%;
+  height: 13%; }
+
+.num {
+  width: 70%;
+  height: 70%; }
+
+.op {
+  width: 60%;
+  height: 60%; }
+
+.arrow {
+  width: 3%;
+  height: 3%; }
+
+p {
+  font-family: "Josefin Sans";
+  font-size: 1.5em; }
+
+.desc {
+  padding: 10px;
+  margin-bottom: 10px; }
+
+.buho {
+  width: 40%;
+  height: 40%; }
+
+.b {
+  text-align: right; }
+
+hr {
+  padding: 20px; }
+
+.decimal, .octal {
+  text-align: center; }
+  .decimal h2, .octal h2 {
+    font-family: "Just Another Hand";
+    font-size: 3em;
+    color: #009999; }
+  .decimal h3, .octal h3 {
+    font-family: "Josefin Sans";
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #009999; }
+
+.enunciado {
+  border: 2px solid #005580;
+  padding: 20px;
+  width: 70%;
+  margin: auto; }
+
+.procedimiento h4 {
+  padding: 10px;
+  background-color: #005580;
+  font-family: "Josefin Sans";
+  font-size: 1.5em;
+  color: #fff;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto; }
+
+.res h4 {
+  padding: 10px;
+  background-color: #009999;
+  font-family: "Josefin Sans";
+  font-size: 1.6em;
+  font-weight: bold;
+  color: #fff;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto; }
+
+html, body {
+  height: 100% !important; }
+
+.timeline-horizontal {
+  min-height: 55%;
+  height: auto !important;
+  height: 55%; }
+
+footer {
+  margin-top: 50px;
+  background-color: #b2b2b2;
+  font-size: 0.8em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px; }
+  footer p {
+    color: #000;
+    text-align: center; }
+    footer p img {
+      width: 4%;
+      height: 4%; }
+  footer p.fecha {
+    font-size: 1.2em; }
+
+/*# sourceMappingURL=main.css.map */
