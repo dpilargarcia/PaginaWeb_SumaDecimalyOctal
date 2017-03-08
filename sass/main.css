@@ -62,11 +62,15 @@ body {
 
 .sum {
   width: 13%;
-  height: 13%; }
+  height: 13%; 
+  min-width: 100px;
+  min-height: 100px; }
 
 .num {
   width: 70%;
-  height: 70%; }
+  height: 70%; 
+  min-width: 234px;
+  min-height: 26px; }
 
 .op {
   width: 60%;
@@ -153,8 +157,8 @@ footer {
     color: #000;
     text-align: center; }
     footer p img {
-      width: 4%;
-      height: 4%; }
+      width: 50px;
+      height: 61px; }
   footer p.fecha {
     font-size: 1.2em; }
 
